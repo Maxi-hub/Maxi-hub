@@ -33,11 +33,7 @@ I’m working with React, Redux, TypeScript, Formik, SCSS & more to craft clean,
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxi-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-hub &layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-hub&layout=pie&langs_count=8&theme=dark&hide_progress=true)
 
----
 
 > _Thanks for visiting my profile! I'm always open to collaboration, mentorship, and exciting frontend challenges 🤝_
