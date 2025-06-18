@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Emma! 👋</h1>
 
-<p align="center">
+<p>
 🚀  I’m a Frontend developer is on his way to becoming a first-class specialist in this field. <br/>
 I’m working with React, Redux, TypeScript, Formik, SCSS & more to craft clean, functional, accessible and user-friendly interfaces 💻✨
 </p>
@@ -20,7 +20,6 @@ I’m working with React, Redux, TypeScript, Formik, SCSS & more to craft clean,
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![SCSS](https://img.shields.io/badge/-SCSS-CB6699?logo=sass&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
@@ -36,7 +35,7 @@ I’m working with React, Redux, TypeScript, Formik, SCSS & more to craft clean,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maxi-hub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username= Maxi-hub &layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-hub &layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 ---
