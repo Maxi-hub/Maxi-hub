@@ -1,9 +1,11 @@
-<h1 align="center">Hi there, I'm Emma! 👋</h1>
+<h1>Welcome! 🤙 </h1>
 
 <p>
-🚀  I’m a Frontend developer is on his way to becoming a first-class specialist in this field. <br/>
+🚀  My name is Emma, I’m a Frontend developer is on his way to becoming a first-class specialist in this field. <br/>
 I’m working with React, Redux, TypeScript, Formik, SCSS & more to craft clean, functional, accessible and user-friendly interfaces 💻✨
 </p>
+<img src="./Manhattan.png" alt="Maxi-hub banner" style="width:100%;"/>
+
 
 ---
 
